@@ -1,4 +1,4 @@
 # university-MVC
 
-Hello and welcome¡ This is the repo for MVC practice, course web programming. Enjoy it
+Hola y Bienvenido¡ Este es el repositorio practico, del curso de programacion web. Enjoy it
 Please submit any question to: poveda.geovanny@gmail.com. Thanks 
